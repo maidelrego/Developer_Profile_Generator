@@ -1,3 +1,3 @@
 # Developer_Profile_Generator
-![]("./gif1")
-![]("./gif2")
+![]("./gif1.gif")
+![]("./gif2.gif")
